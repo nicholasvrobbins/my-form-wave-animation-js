@@ -1,6 +1,6 @@
 2022-06-08
 
-Live Demo:
+Live Demo: https://gilded-brioche-53165b.netlify.app/
 
 Summary: Following along with Brad and Florin doing 50 JavaScript projects to get better at JavaScript.
 
